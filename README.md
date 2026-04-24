@@ -160,7 +160,7 @@ Contributions, issues, and feature requests are welcome! Feel free to open a pul
 
 ## 📄 License
 
-This project is open source. Add a license of your choice (e.g., MIT).
+This project is open source.
 
 ---
 
